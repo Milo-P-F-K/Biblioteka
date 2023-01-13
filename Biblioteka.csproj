@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A224E717-CB07-4886-AB2E-9DCF911624A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Biblioteka</RootNamespace>
+    <AssemblyName>Biblioteka</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AppIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test|AnyCPU'">
+    <OutputPath>bin\Test\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BibliotekaDataset1.cs">
+      <DependentUpon>BibliotekaDataset1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\addAuthorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\addAuthorForm.Designer.cs">
+      <DependentUpon>addAuthorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\addBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\addBooksForm.Designer.cs">
+      <DependentUpon>addBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\addCategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\addCategoryForm.Designer.cs">
+      <DependentUpon>addCategoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\addPublisherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\addPublisherForm.Designer.cs">
+      <DependentUpon>addPublisherForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\addJobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\addJobForm.Designer.cs">
+      <DependentUpon>addJobForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\assignAuthorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\assignAuthorForm.Designer.cs">
+      <DependentUpon>assignAuthorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BibliotekaDataset1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BibliotekaDataset1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\removeEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\removeEmployeeForm.Designer.cs">
+      <DependentUpon>removeEmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\deregisterReaderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\deregisterReaderForm.Designer.cs">
+      <DependentUpon>deregisterReaderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\extendLeaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\extendLeaseForm.Designer.cs">
+      <DependentUpon>extendLeaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\switchEmployeeJobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\switchEmployeeJobForm.Designer.cs">
+      <DependentUpon>switchEmployeeJobForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\viewBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\viewBooksForm.Designer.cs">
+      <DependentUpon>viewBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\borrowBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\borrowBookForm.Designer.cs">
+      <DependentUpon>borrowBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainMenuForm.Designer.cs">
+      <DependentUpon>mainMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\registerEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\registerEmployeeForm.Designer.cs">
+      <DependentUpon>registerEmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\registerReaderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\registerReaderForm.Designer.cs">
+      <DependentUpon>registerReaderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\removeAuthorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\removeAuthorForm.Designer.cs">
+      <DependentUpon>removeAuthorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\removeBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\removeBookForm.Designer.cs">
+      <DependentUpon>removeBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\removeJobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\removeJobForm.Designer.cs">
+      <DependentUpon>removeJobForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\returnBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\returnBookForm.Designer.cs">
+      <DependentUpon>returnBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="splashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashScreen.Designer.cs">
+      <DependentUpon>splashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\unassignAuthorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\unassignAuthorForm.Designer.cs">
+      <DependentUpon>unassignAuthorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\viewAuthorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\viewAuthorsForm.Designer.cs">
+      <DependentUpon>viewAuthorsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\viewEmployeesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\viewEmployeesForm.Designer.cs">
+      <DependentUpon>viewEmployeesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\viewBorrowedBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\viewBorrowedBooksForm.Designer.cs">
+      <DependentUpon>viewBorrowedBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilityForms\viewReadersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilityForms\viewReadersForm.Designer.cs">
+      <DependentUpon>viewReadersForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="utilityForms\addAuthorForm.resx">
+      <DependentUpon>addAuthorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\addBooksForm.resx">
+      <DependentUpon>addBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\addCategoryForm.resx">
+      <DependentUpon>addCategoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\addPublisherForm.resx">
+      <DependentUpon>addPublisherForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\addJobForm.resx">
+      <DependentUpon>addJobForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\assignAuthorForm.resx">
+      <DependentUpon>assignAuthorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\removeEmployeeForm.resx">
+      <DependentUpon>removeEmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\deregisterReaderForm.resx">
+      <DependentUpon>deregisterReaderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\extendLeaseForm.resx">
+      <DependentUpon>extendLeaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\switchEmployeeJobForm.resx">
+      <DependentUpon>switchEmployeeJobForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\viewBooksForm.resx">
+      <DependentUpon>viewBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\borrowBookForm.resx">
+      <DependentUpon>borrowBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainMenuForm.resx">
+      <DependentUpon>mainMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\registerEmployeeForm.resx">
+      <DependentUpon>registerEmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\registerReaderForm.resx">
+      <DependentUpon>registerReaderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\removeAuthorForm.resx">
+      <DependentUpon>removeAuthorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\removeBookForm.resx">
+      <DependentUpon>removeBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\removeJobForm.resx">
+      <DependentUpon>removeJobForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\returnBookForm.resx">
+      <DependentUpon>returnBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splashScreen.resx">
+      <DependentUpon>splashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\unassignAuthorForm.resx">
+      <DependentUpon>unassignAuthorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\viewAuthorsForm.resx">
+      <DependentUpon>viewAuthorsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\viewEmployeesForm.resx">
+      <DependentUpon>viewEmployeesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\viewBorrowedBooksForm.resx">
+      <DependentUpon>viewBorrowedBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilityForms\viewReadersForm.resx">
+      <DependentUpon>viewReadersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BibliotekaDataset1.xsc">
+      <DependentUpon>BibliotekaDataset1.xsd</DependentUpon>
+    </None>
+    <None Include="BibliotekaDataset1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BibliotekaDataset1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BibliotekaDataset1.xss">
+      <DependentUpon>BibliotekaDataset1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_books_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_books_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_books_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_category_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_books_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_author_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_author_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_authors_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assign_author_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_publisher_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assign_author_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unassign_author_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lend_book_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return_book_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\extend_lease_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_leases_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_readers_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register_reader_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_reader_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_job_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_job_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_employee_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_employees_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register_employee_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_category_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReaderFunctionsMenuBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReaderFunctionsMenuBG1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReaderFunctionsMenuBG2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReaderFunctionsMenuBG3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReaderFunctionsMenuBG4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrganizationFunctionsMenuBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SplashScreenBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SplashScreenBG1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_books_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\subMenuBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppIcon.ico" />
+    <None Include="Resources\switch_employee_job_icon.png" />
+    <None Include="Resources\clearReturnTableButton.png" />
+    <None Include="Resources\ReturnButton.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

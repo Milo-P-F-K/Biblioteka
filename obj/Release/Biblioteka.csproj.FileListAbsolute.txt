@@ -1,0 +1,171 @@
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Author.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Book.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Category.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Publisher.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Task.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Assign_Author.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Deregister_Employee.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Deregister_Reader.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Extend_Lease.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Lease_Book.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Main_menu.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Register_Employee.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Register_Reader.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Remove_Author.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Remove_Book.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Remove_Task.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Return_Book.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.Unassign_Author.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Authors.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Employees.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Leased_Books.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Readers.resources
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.cache
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.CoreCompileInputs.cache
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+D:\Projekt Zaliczeniowy Kapuściński Kołtuniak\Biblioteka\Biblioteka\obj\Release\Biblioteka.csprojAssemblyReference.cache
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Author.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Book.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Category.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Publisher.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Add_Task.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Assign_Author.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Deregister_Employee.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Deregister_Reader.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Extend_Lease.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Lease_Book.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Main_menu.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Register_Employee.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Register_Reader.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Remove_Author.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Remove_Book.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Remove_Task.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Return_Book.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.Unassign_Author.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Authors.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Employees.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Leased_Books.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.View_Readers.resources
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.cache
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+C:\Users\Milosz\Desktop\Biblioteka\Biblioteka\obj\Release\Biblioteka.SplashScreen.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\bin\Release\Biblioteka.exe.config
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\bin\Release\Biblioteka.exe
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.viewBooksForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.Return_Book.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.SplashScreen.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.cache
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.exe
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.pdb
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.addAuthorForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.addBooksForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.addCategoryForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.addPublisherForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.addJobForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.assignAuthorForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.removeEmployeeForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.deregisterReaderForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.extendLeaseForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.borrowBookForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.registerEmployeeForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.registerReaderForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.removeAuthorForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.removeBookForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.unassignAuthorForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.viewAuthorsForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.viewEmployeesForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.viewBorrowedBooksForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.viewReadersForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.utilityForms.switchEmployeeJobForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.mainMenuForm.resources
+C:\Users\Milosz\Desktop\Nowy folder\Biblioteka 180822\Biblioteka\obj\Release\Biblioteka.removeJobForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\bin\Release\Biblioteka.exe.config
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\bin\Release\Biblioteka.exe
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addAuthorForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addBooksForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addCategoryForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addPublisherForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addJobForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.assignAuthorForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeEmployeeForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.deregisterReaderForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.extendLeaseForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.utilityForms.switchEmployeeJobForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewBooksForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.borrowBookForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.mainMenuForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.registerEmployeeForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.registerReaderForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeAuthorForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeBookForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeJobForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.Return_Book.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.splashScreen.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.unassignAuthorForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewAuthorsForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewEmployeesForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewBorrowedBooksForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewReadersForm.resources
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.cache
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.exe
+C:\Users\Milosz\Desktop\Pliki Aplikacji\Projekt i kod\Biblioteka\obj\Release\Biblioteka.pdb
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.exe
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.pdb
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\bin\Release\Biblioteka.exe.config
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\bin\Release\Biblioteka.exe
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addAuthorForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addBooksForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addCategoryForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addPublisherForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.addJobForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.assignAuthorForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeEmployeeForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.deregisterReaderForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.extendLeaseForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.utilityForms.switchEmployeeJobForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewBooksForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.borrowBookForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.mainMenuForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.registerEmployeeForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.registerReaderForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeAuthorForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeBookForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.removeJobForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.Return_Book.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.splashScreen.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.unassignAuthorForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewAuthorsForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewEmployeesForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewBorrowedBooksForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.viewReadersForm.resources
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.cache
+C:\Users\Miłosz Kapuściński\Desktop\Projekty\C# z wykorzystaniem ADO.NET\Projekt i kod\Biblioteka\obj\Release\Biblioteka.csproj.CoreCompileInputs.cache

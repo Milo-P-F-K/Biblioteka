@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!--
+		
+		WARNING!
+		
+        TO PROPERLY TEST THE APP FUNCTIONALITY AND CONNECT TO DB, PLEASE RESTORE DB FROM .BAK FILE AND IMPORT DATA BY EXECUTING .SQL FILE 
+		
+		BOTH PRESENT IN "/DATABASE" DIRECTORY,
+		
+		THEN PROVIDE PROPER CONNECTION STRING VALUES IN FOLLOWING FILES:
+		
+		-SETTINGS.DESIGNER.CS
+		
+		-SETTINGS.SETTINGS (HERE, IN "DESIGNTIMEVALUE" AND "VALUE PROFILE" FIELDS)
+		
+		-APP.CONFIG
+		
+		-->
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Biblioteka.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="db_a8b501_bibliotekaConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=;Initial Catalog=;User ID=;Password=&lt;/ConnectionString&gt; <!--INPUT YOUR CONNECTION STRING VALUES HERE-->
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=;Initial Catalog=;User ID=;Password=</Value> <!--INPUT YOUR CONNECTION STRING VALUES HERE-->
+	</Setting>
+  </Settings>
+</SettingsFile>
